@@ -11,3 +11,9 @@
 
 ### 세포 class 별 갯수 결과 정리 파일
 #### xml_cell_2020 09 03.xlsx
+
+### 세포 이미지 사이즈 조정 : 1/2
+#### image_resize.py
+
+### 세포 이미지 사이즈 조정에 따른 Annotation XML 파일 수정
+#### xml_modify.py
